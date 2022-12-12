@@ -6,5 +6,6 @@ http.createServer(function (req, res) {
     res.end(); 
 }).listen(5000); 
   
-
+console.log('Program Started !!!'); 
 console.log('Program executed !!!'); 
+console.log('Program terminated !!!'); 
